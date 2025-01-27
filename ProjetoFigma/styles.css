@@ -1,6 +1,7 @@
 h1 {
   color: white;
   font-size: 36px;
+  font-family: "Crona One", sans-serif;
 }
 
 body {
@@ -10,6 +11,7 @@ body {
 p {
   color: white;
   font-size: 24px;
+  font-family: "Krona One", sans-serif;
 }
 
 strong {
@@ -20,4 +22,9 @@ a {
   background-color: #22d4fd;
   padding: 16px;
   border-radius: 16px;
+  text-decoration: none;
+  border: 1px solid #22d4fd;
+  color: #000000;
+  font-weight: bold;
+  font-family: "Krona One", sans-serif;
 }
